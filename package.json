@@ -1,0 +1,26 @@
+{
+  "name": "node-xlsx2json",
+  "version": "0.2.0",
+  "description": "simple XLSX reader to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfroffice/node-xlsx2json.git"
+  },
+  "keywords": [
+    "xlsx",
+    "json"
+  ],
+  "author": "John Fischer jfroffice@gmail.com",
+  "license": "Microsoft Office Extensible File License",
+  "bugs": {
+    "url": "https://github.com/jfroffice/node-xlsx2json/issues"
+  },
+  "homepage": "https://github.com/jfroffice/node-xlsx2json",
+  "dependencies": {
+    "node-xlsx": "^0.4.0"
+  }
+}
